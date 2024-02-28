@@ -1,3 +1,5 @@
+# Feel free to contribute and make this better if you like it meow
+
 ![screen-0](./img/screen-0.png)
 
 Mainly inspired by:
